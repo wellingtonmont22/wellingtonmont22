@@ -1,6 +1,6 @@
 # Olá, me chamo Wellington ! 
 ## Bem vindo ao meu perfil GitHub 👋
-
+![](https://komarev.com/ghpvc/?username=wellingtonmont22&style=for-the-badge)
 <div>
 <a href="https://github.com/wellingtonmont22">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmont22&layout=donut&langs_count=10&theme=shadow_blue"/>
